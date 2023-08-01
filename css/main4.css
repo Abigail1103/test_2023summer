@@ -1,0 +1,42 @@
+body{
+    /* width: 100vw; */
+    /* height: 100vh; */
+    display: flex;
+    background-color: #b38784;
+    text-align: center;
+    justify-content: center;
+}
+
+/* four plate */
+.content-area{
+    position: absolute;
+    display: block;
+    width: 900px;
+    height: 600px;
+    outline: solid 3px black;
+    color:#b38784;
+    background-color: #fff;
+
+}
+.contenttop{
+    position: absolute;
+    display: flex;
+
+}
+.contentdown{
+    position: absolute;
+    display: flex;
+
+}
+.spring{
+
+}
+.fall{
+
+}
+.summer{
+
+}
+.winter{
+
+}

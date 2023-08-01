@@ -1,0 +1,62 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    outline: solid 1px blue;
+    /* position: absolute; */
+    /* margin-left: 5px; */
+    margin: 10px;
+    /* margin-right: 10px; */
+    display: inline-block;
+    /* padding: 0px; */
+    padding-bottom: 20px;
+    padding-left: 0px;
+    text-align: left;
+    position: absolute;
+
+}
+
+.navigator{
+    width: 100vw;
+    height: 50px;
+    outline: solid 1px blue;
+    /* position: absolute; */
+    /* margin: 0; */
+    padding: 0;
+    margin-bottom: 20px;
+
+    
+    
+
+}
+.seasontop{
+    width: 1000px;
+    height: 300px;
+    outline: solid 1px black;
+    display: inline-block;
+}
+
+.mainspring{
+    outline: solid 1px red;
+    width: 30px;
+    height: 20px;
+    /* position: absolute; */
+
+}
+
+
+.mainsummer{
+    outline: solid 1px red;
+    width: 600px;
+    height: 400px;
+    display:block;
+    /* position: absolute; */
+    /* position: relative; */
+
+    /* margin-left: 610px; */
+}
+
+
+
+.btn__group {
+    margin-top: 0.5em;
+}

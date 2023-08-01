@@ -1,0 +1,57 @@
+.all{
+    width: 500px;
+    height: auto;
+    display:block;
+    outline: solid 1px blue;
+    padding: 10px;
+    
+  }
+  .body{
+    
+  }
+  
+  .containertop{
+    display:flex;
+    margin-bottom: 0px;
+    
+  }
+  
+  .spring{
+    margin: 0px;
+  }
+  
+  .summer{
+    margin: 0px;
+  }
+  
+  .fall{
+    margin: 0px;
+  }
+  
+  .winter{
+    margin: 0px;
+  }
+  
+  .img{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    position: absolute;
+    
+  }
+  
+  .container2{
+    display:flex;
+    margin-top: -5px;
+  }
+  
+  .burger{
+    position: absolute;
+  /*   position: fix; */
+    width: 35px;
+    height: 35px;
+    outline: solid 2px blue;
+    margin-left: 1050px;
+    margin-top: 20px;
+    border-radius: 30px; 
+  }
